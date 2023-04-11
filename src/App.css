@@ -1,0 +1,36 @@
+* {
+  margin: 0%;
+}
+.App {
+  text-align: center;
+}
+.header,
+.footer {
+  background-color: #f55a5a;
+  padding: 3px;
+}
+.header p {
+  font-size: larger;
+  font-weight: 600;
+}
+.footer a {
+  text-decoration: none;
+  color: black;
+}
+.cards {
+  padding: 3%;
+  background-color: #1d1d1c;
+}
+.card {
+  height: 450px;
+  color: aliceblue;
+  text-align: start;
+}
+.card img {
+  height: 250px;
+  width: 450px;
+  margin: auto;
+}
+.card hr {
+  margin-top: 5%;
+}
